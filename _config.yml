@@ -1,6 +1,6 @@
 # Site settings
 title: IXZV
-description: ""
+description: "blog"
 url:  "https://tladudtn.github.io" # Actual base url of the website
 baseurl: ""           # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
 author:
@@ -16,7 +16,7 @@ plugins: [jekyll-paginate, jekyll-feed, jekyll-seo-tag, jekyll-sitemap]
 paginate: 3
 paginate_path: "/page:num/"
 
-logo: /assets/img/logo.jpg
+logo: /assets/img/logo.png
 webmaster_verifications:
   google: 
 lang: ko_Kr
